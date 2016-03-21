@@ -11,3 +11,5 @@ Plug in this python script and change the web-service details so that you aren't
 ![The Thermofan Setup](https://lh3.googleusercontent.com/CRRcAh-B1JyHDa5HxQWgR6LlGVv_RVQZ7ncA3J6D0g_kYSCaUzb_sGATjHXyULcobwkWiwdwnHIZ8X43E1AaKzhKCD_n-z14JcB_ZUFcwbeWkNNrMBz9a7dU70-D5MWr53aw0QWFhS9v2bVBD_igqv2xPnClAJQR5bXEwven1Wf_lnVkvKpP3ztZOAfqf4ZvqnVeQ7IQR5FE9a69aGYokd2ub2L8hziFvkA7YoOEP4wm2leUMBkfTeZOLmR3owpIP8Tzoi-UdmlnPkSh-xfa3uEuXSH3MNVGohuwrfpHnHVFyIKI5kvlM0UPFhyf8zXa3oDgSwp7agxoZXNdHgkuNm3YcZV2-N8PXU_LMybMIUS4gZt6-wYTjYNZA-Qh7qaAbs5_jp3GBZyBck-SOnGjfD8IO2CpNmQc9mIdWcr2MyqX_fcJDOjk9uknHEL-Dsg3pqqdGOB6PAmGn6vVLk7tbm-Y2C3iLxWuzF4VBqZ6C2PhzFr3o1JM39ApBoKT4qmEw9vl6hwHziWuqfw3W7TiZHOvRyPsGYcbJNUl171RqmRxJxWC3QhhmiK0hLiVpq7xOTgC=w1038-h778-no)
 
 Hurrah!
+
+Next step - a little mobile app to beep at the wife when a new log is required.  Next weekend..
