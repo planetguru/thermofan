@@ -4,7 +4,7 @@ import time, sys
 import RPi.GPIO as GPIO
 import requests
 
-url = 'http://dweet.io/dweet/for/com.uk.christo.thermofan'
+url = 'http://dweet.io/dweet/for/thermofan'
 
 def registerTemp( temp ):
 	global url
