@@ -4,13 +4,13 @@ import time, sys
 import RPi.GPIO as GPIO
 import requests
 
-url = 'http://www.spiration.co.uk/thermofan.php'
+url = 'http://dweet.io/dweet/for/com.uk.christo.thermofan'
 
 def registerTemp( temp ):
 	global url
 	temp = str(temp)
 	payload = {'temp': temp}
-	requests.put(url, params=payload)
+	requests.get(url, params=payload)
 
 spinpin = int(sys.argv[1])
 
