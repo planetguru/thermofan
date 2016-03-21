@@ -10,7 +10,7 @@ def registerTemp( temp ):
 	global url
 	temp = str(temp)
 	payload = {'temp': temp}
-	requests.get(url, params=payload)
+	requests.put(url, params=payload)
 
 spinpin = int(sys.argv[1])
 
@@ -27,7 +27,7 @@ lasttime = int(round(time.time() * 1000))
 
 while Running:
 	newval = GPIO.input(spinpin)
-	if newval != last and newval == 1:
+	if newval != last and newval == 0:
 		thistime = int(time.time() * 1000)
 		diff = thistime - lasttime
 		if diff != lastdiff and thistime % 2 == 0:
